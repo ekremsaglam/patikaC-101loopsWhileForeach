@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\bin\Debug\net5.0\loopsWhileForeach.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\bin\Debug\net5.0\loopsWhileForeach.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\bin\Debug\net5.0\loopsWhileForeach.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\bin\Debug\net5.0\loopsWhileForeach.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\bin\Debug\net5.0\loopsWhileForeach.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\bin\Debug\net5.0\ref\loopsWhileForeach.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\bin\Debug\net5.0\loopsWhileForeach.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\loopsWhileForeach.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\loopsWhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\loopsWhileForeach.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\loopsWhileForeach.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\loopsWhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\loopsWhileForeach.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\ref\loopsWhileForeach.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\loopsWhileForeach.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsWhileForeach\obj\Debug\net5.0\loopsWhileForeach.genruntimeconfig.cache
